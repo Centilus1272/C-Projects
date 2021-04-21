@@ -1,0 +1,15 @@
+﻿Build started 2/25/2016 12:07:53 PM.
+     1>Project "E:\C++\cbhw9\cbhw9\cbhw9.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "E:\C++\cbhw9\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\cbhw9.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt cbhw9.cpp
+         cbhw9.cpp
+     1>e:\c++\cbhw9\cbhw9\cbhw9.cpp(24): fatal error C1075: end of file found before the left brace '{' at 'e:\c++\cbhw9\cbhw9\cbhw9.cpp(7)' was matched
+     1>Done Building Project "E:\C++\cbhw9\cbhw9\cbhw9.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.74

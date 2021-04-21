@@ -1,0 +1,24 @@
+﻿Build started 2/16/2016 12:03:51 PM.
+     1>Project "E:\C++\cbhw5\cbhw5\cbhw5.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\cbhw5.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /analyze- /errorReport:prompt cbhw5.cpp /clr:nostdlib 
+         cbhw5.cpp
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C++\cbhw5\Debug\cbhw5.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\cbhw5.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\C++\cbhw5\Debug\cbhw5.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\cbhw5.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         cbhw5.vcxproj -> E:\C++\cbhw5\Debug\cbhw5.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\C++\cbhw5\Debug\cbhw5.exe;#1" /manifest Debug\cbhw5.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\cbhw5.unsuccessfulbuild".
+         Touching "Debug\cbhw5.lastbuildstate".
+     1>Done Building Project "E:\C++\cbhw5\cbhw5\cbhw5.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.86

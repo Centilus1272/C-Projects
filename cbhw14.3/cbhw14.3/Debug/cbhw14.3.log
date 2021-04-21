@@ -1,0 +1,20 @@
+﻿Build started 3/31/2016 12:06:29 PM.
+     1>Project "E:\C++\cbhw14.3\cbhw14.3\cbhw14.3.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\cbhw14.3.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt homeworkcb143.cpp
+         homeworkcb143.cpp
+     1>e:\c++\cbhw14.3\cbhw14.3\homeworkcb143.cpp(33): error C2062: type 'void' unexpected
+     1>e:\c++\cbhw14.3\cbhw14.3\homeworkcb143.cpp(34): error C2143: syntax error : missing ';' before '{'
+     1>e:\c++\cbhw14.3\cbhw14.3\homeworkcb143.cpp(36): error C2065: 'e' : undeclared identifier
+     1>e:\c++\cbhw14.3\cbhw14.3\homeworkcb143.cpp(36): error C2065: 'f' : undeclared identifier
+     1>e:\c++\cbhw14.3\cbhw14.3\homeworkcb143.cpp(37): error C2065: 'f' : undeclared identifier
+     1>e:\c++\cbhw14.3\cbhw14.3\homeworkcb143.cpp(38): error C2065: 'g' : undeclared identifier
+     1>e:\c++\cbhw14.3\cbhw14.3\homeworkcb143.cpp(40): error C2065: 'h' : undeclared identifier
+     1>e:\c++\cbhw14.3\cbhw14.3\homeworkcb143.cpp(43): fatal error C1075: end of file found before the left brace '{' at 'e:\c++\cbhw14.3\cbhw14.3\homeworkcb143.cpp(7)' was matched
+     1>Done Building Project "E:\C++\cbhw14.3\cbhw14.3\cbhw14.3.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.88

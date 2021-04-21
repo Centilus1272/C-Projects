@@ -1,0 +1,22 @@
+﻿Build started 3/3/2016 4:34:56 PM.
+     1>Project "E:\C++\cbhw11.2\cbhw11.2\cbhw11.2.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "E:\C++\cbhw11.2\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\cbhw11.2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt cbhw11.cpp
+         cbhw11.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C++\cbhw11.2\Debug\cbhw11.2.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\cbhw11.2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\C++\cbhw11.2\Debug\cbhw11.2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C++\cbhw11.2\Debug\cbhw11.2.lib" /MACHINE:X86 Debug\cbhw11.obj
+         cbhw11.2.vcxproj -> E:\C++\cbhw11.2\Debug\cbhw11.2.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\C++\cbhw11.2\Debug\cbhw11.2.exe;#1" /manifest Debug\cbhw11.2.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\cbhw11.2.unsuccessfulbuild".
+         Touching "Debug\cbhw11.2.lastbuildstate".
+     1>Done Building Project "E:\C++\cbhw11.2\cbhw11.2\cbhw11.2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:06:01.68
